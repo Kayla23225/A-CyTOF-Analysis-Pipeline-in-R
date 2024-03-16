@@ -1,7 +1,7 @@
-# The-Robinson-Pipeline-for-Cytof-Analysis-in-R
-This is a reproduction of the CATALYST pipeline in Bioconductor, that is created for analyzing high dimensional CyToF Data. This was created in an attempt make it more approachable to those who may be new to coding in R.
+# A-CyTOF-Analysis-Pipeline-in-R
+This is a reproduction of the CATALYST pipeline in Bioconductor, that is created for analyzing high dimensional CyTOF Data. This was created in an attempt make it more approachable to those who may be new to coding in R.
 
-Here is a link to the paper, with full descriptions and introductions to CyTof, and explaination of their datasets. 
+Here is a link to the paper, with full descriptions and introductions to CyTOF, and explaination of their datasets. 
 
 [LINK to Bioconductor](https://www.bioconductor.org/packages/release/workflows/vignettes/cytofWorkflow/inst/doc/cytofWorkflow.html)
 
